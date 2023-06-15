@@ -2,7 +2,7 @@
 
 ## Description
 
-Built a page to generate a random password
+Built a page to generate a random password containing number, symbols, lowercase characters and uppercase characters.
 
 ### Topics are to be covered;
 
