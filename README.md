@@ -2,11 +2,11 @@
 
 ## Description
 
-Built a page to generate a random password containing number, symbols, lowercase characters and uppercase characters.
+Built a page to generate a random password containing numbers, symbols, lowercase and uppercase characters.
 
 ### Topics are to be covered;
 
-- HTML, CSS, JS DOM Manipulation.
+- HTML, CSS, JS, DOM Manipulation.
 
 ## Expected Outcome
 **<div align="center">![Project Snapshot](snapshot.png)</div>**
